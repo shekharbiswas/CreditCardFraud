@@ -15,3 +15,6 @@ Additionally, idea is to experiment with an adversarial network, using it solely
 This approach shows promise and needs further improvement.
 
 
+## Techstack
+
+* Tensorflow and Keras
